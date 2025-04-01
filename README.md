@@ -1,5 +1,4 @@
 # sqlalchemy-challenge
-
-This project explores a mock employee database focusing on workforce trends from the 1980s to the 1990s. It was built using PostgreSQL, with a relational database based on an Entity Relationship (ER) schema. The project walks through the full data pipeline: modeling, engineering, and analysis.
+This project analyzes weather data from Honolulu using SQLAlchemy, Pandas, and Flask. It explores precipitation trends and temperature observations from the most active station over the last 12 months. Results show varied rainfall throughout the year and temperatures mostly ranging between the mid-50s and mid-80s.
 
 This challenge was completed for educational purposes. External sources, including documentation and instructional support, were referenced to correct errors and ensure accuracy. All work follows project guidelines.
